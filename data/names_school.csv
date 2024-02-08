@@ -1,0 +1,65 @@
+﻿Common Name,site name,conference
+Auburn,auburn,SEC
+Kentucky,kentucky,SEC
+Tennessee,tennessee,SEC
+LSU,louisiana-state,SEC
+Texas A&M,texas-am,SEC
+Alabama,alabama,SEC
+Florida,florida,SEC
+South Carolina,south-carolina,SEC
+Mississippi State,mississippi-state,SEC
+Vanderbilt,vanderbilt,SEC
+Missouri,missouri,SEC
+Ole Miss,mississippi,SEC
+Georgia,georgia,SEC
+Illinois,illinois,BigTen
+Indiana,indiana,BigTen
+Iowa,iowa,BigTen
+Maryland,maryland,BigTen
+Michigan,michigan,BigTen
+Michigan State,michigan-state,BigTen
+Minnesota,minnesota,BigTen
+Nebraska,nebraska,BigTen
+Northwestern,northwestern,BigTen
+Ohio State,ohio-state,BigTen
+Penn State,penn-state,BigTen
+Purdue,purdue,BigTen
+Rutgers,rutgers,BigTen
+Wisconsin,wisconsin,BigTen
+Bostin College,boston-college,ACC
+Clemson,clemson,ACC
+Duke,duke,ACC
+Florida State,florida-state,ACC
+Georgia Tech,georgia-tech,ACC
+Louisville,louisville,ACC
+Miami,miami-fl,ACC
+North Carolina,north-carolina,ACC
+NC State,north-carolina-state,ACC
+Pittsburgh,pittsburgh,ACC
+Syracuse,syracuse,ACC
+Virginia,virginia,ACC
+Virginia Tech,virginia-tech,ACC
+Wake Forest,wake-forest,ACC
+Baylor,baylor,BigTwelve
+Iowa State,iowa-state,BigTwelve
+Kansas,kansas,BigTwelve
+Kansas State,kansas-state,BigTwelve
+Oklahoma State,oklahoma-state,BigTwelve
+TCU,texas-christian,BigTwelve
+Texas Tech,texas-tech,BigTwelve
+West Virginia,west-virginia,BigTwelve
+Texas,texas,BigTwelve
+Oklahoma,oklahoma,BigTwelve
+Notre Dame,notre-dame,ACC
+Arizona,arizona,PacTwelve
+Arizona State,arizona-state,PacTwelve
+California,california,PacTwelve
+UCLA,ucla,PacTwelve
+Colorado,colorado,PacTwelve
+Oregon,oregon,PacTwelve
+Oregon State,oregon-state,PacTwelve
+USC,southern-california,PacTwelve
+Stanford,stanford,PacTwelve
+Utah,utah,PacTwelve
+Washington,washington,PacTwelve
+Washington State,washington-state,PacTwelve
